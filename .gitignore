@@ -1,0 +1,14 @@
+# Ignore node_modules directory
+build/
+dist/
+Cracker.spec
+logo.ico
+
+# Ignore log files
+*.log
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore specific environment files
+.env
